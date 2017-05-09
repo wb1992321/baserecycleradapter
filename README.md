@@ -1,0 +1,2 @@
+# baserecycleradapter
+平时使用RecyclerView中对其适配器的一种封装，主要是实现方式的简单化，方便迁移ListView的老项目！对于数据源管理的一些方式！
